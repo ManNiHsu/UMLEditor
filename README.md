@@ -5,7 +5,8 @@ the class diagram with methods and key attributes
 ![](https://i.imgur.com/E1nWLyA.png)
 ## Screenshot
 ![](https://i.imgur.com/xbQI8ME.png)
-
+## Demo video
+https://youtu.be/F0UmkHyXca8
 ## Features
 1. Creating an UML object
 2. Creating an UML connection line
